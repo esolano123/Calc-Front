@@ -9,7 +9,7 @@ const initialState = {
 };
 
 //url de la api
-const API_URL = 'https://backendcalc-enb9.onrender.com';
+const API_URL = 'https://backendcalc-enb9.onrender.com/api/movimientos';
 
 // Create context
 export const GlobalContext = createContext(initialState);
